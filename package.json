@@ -1,0 +1,22 @@
+{
+  "name": "salty-bot",
+  "version": "1.0.0",
+  "description": "Discord Bot xD",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samsimon123/salty-bot.git"
+  },
+  "author": "jasong3 , samsimon, and more ..",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samsimon123/salty-bot/issues"
+  },
+  "homepage": "https://github.com/samsimon123/salty-bot#readme"
+}
