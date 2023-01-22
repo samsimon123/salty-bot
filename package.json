@@ -2,7 +2,7 @@
   "name": "salty-bot",
   "version": "1.0.0",
   "description": "Discord Bot xD",
-  "main": "index.js",
+  "main": "app.js",
   "directories": {
     "example": "example"
   },
@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/samsimon123/salty-bot/issues"
   },
-  "homepage": "https://github.com/samsimon123/salty-bot#readme"
+  "homepage": "https://github.com/samsimon123/salty-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {}
 }
